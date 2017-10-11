@@ -1,6 +1,6 @@
 Etherip
 -------
-
+这是一个基于java链接plc的程序
 A Java library for reading and writing tags on AllenBradley Control Logix or Compact Logix
 PLCs via the Ethernet/IP protocol (aka DeviceNet-over-Ethernet or CIP-over-Ethernet).
 
